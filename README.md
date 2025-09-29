@@ -1,4 +1,4 @@
-# Credit-Card-Fraud-Detection
+# Credit Card Fraud Detection
 
 Used Kaggle's credit card fraud detection dataset from (https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud)<br />
 
